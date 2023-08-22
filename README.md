@@ -1,5 +1,9 @@
+
+
 # **News Summarizer App deployed in AWS EC2 instance**
 ![image](https://github.com/bishal-kashyap/Python-app-in-AWS-EC2/assets/142091530/3964a1d4-f479-4fb2-ae83-358e459f60f3)
+
+### Source code reference : https://github.com/Spidy20/InNews
 
 ## Workflow
  - Create an EC2 instance in AWS:
